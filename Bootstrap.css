@@ -1,0 +1,25 @@
+.First{
+    padding: 20px;
+    background-color: blue;
+    border:2px solid orange;
+    border-radius: 10px;
+    box-shadow: 15px 15px 10px green;
+}
+.Second{
+    padding: 20px;
+    background-color: #3A86FF;
+    border: 2px solid #FB5607;
+    border-radius: 10px;
+    box-shadow: 15px 15px 10px #000000;
+}
+
+.four{
+  color: greenyellow;
+  text-align:center;
+  font-size:60px;
+  animation:mymove 5s infinite;
+  }
+  @keyframes mymove {
+    50%{color:yellow;}
+    
+  }
